@@ -6,4 +6,4 @@ cls
 @net start DNS
 @echo ==== END: DNS RESTART
 @echo.
-@echo ============= END OF PROGRAM =============
+@echo ====== END OF PROGRAM ======
